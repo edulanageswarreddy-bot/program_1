@@ -1,0 +1,7 @@
+The Task: Create a program that assigns a status to a student based on their grade.
+
+● Pass: Grade is greater than or equal to 50.
+
+● Fail: Grade is less than 50.
+
+● Distinction: Grade is greater than or equal to 80.
